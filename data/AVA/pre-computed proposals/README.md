@@ -1,0 +1,2 @@
+# Pre-Computed Region Proposals for Action Detection in AVA
+    The pre-computed region proposals provided here are bounding boxes for AVA evaluation. We provide two formats of bounding boxes: AVA-annotation-like CSV format and MS-COCO Json format. CSV format boxes are used in models like SlowFast and LFB while Json format boxes are used in AlphAction, VideoMAE and InternVideo.
